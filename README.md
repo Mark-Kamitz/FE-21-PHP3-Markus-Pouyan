@@ -42,7 +42,7 @@ Back-End
 Front-End
 etc.
 
-##Day 3 | Challenge
+## Day 3 | Challenge
 
 * We will create a Restaurant Database (you can create it directly in php MyAdmin).
 
