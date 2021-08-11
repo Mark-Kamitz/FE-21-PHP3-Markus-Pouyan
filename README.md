@@ -46,7 +46,8 @@ etc.
 
 ## Day 3 | Challenge
 
-![Bildschirmfoto 2021-08-11 um 21 00 15](https://user-images.githubusercontent.com/85449060/129087511-f30decae-79d9-45f2-af73-d26b316ee595.png)
+![Bildschirmfoto 2021-08-11 um 21 20 22](https://user-images.githubusercontent.com/85449060/129090095-f647ddad-dd17-40f1-b518-a8e5d84cfdee.png)
+
 
 * We will create a Restaurant Database (you can create it directly in php MyAdmin).
 
