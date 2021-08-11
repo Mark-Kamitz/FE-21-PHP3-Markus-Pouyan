@@ -41,3 +41,17 @@ Back-End
 19
 Front-End
 etc.
+
+##Day 3 | Challenge
+
+* We will create a Restaurant Database (you can create it directly in php MyAdmin).
+
+* The database should contain one table called dishes with columns dishID, image(URL link), name, price and meal description. If there are any columns that you think could compliment your project feel free to expand. 
+
+**You should be able to:**
+
+* Display all meals
+
+* Add a meal
+
+* Delete a meal
